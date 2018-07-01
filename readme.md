@@ -13,9 +13,9 @@
 * Place DrNoHealth.py into your gesource/python/ges/GamePlay folder.
 * Start the game or server, and run the following command in your console:
 
-'''
+```
 ge_gameplay drnohealth
-'''
+```
 
 ## Support
 
